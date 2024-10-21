@@ -29,5 +29,5 @@ A simple and intuitive Note Taking application built with C# and Windows Forms, 
 3. Set up your SQL Server database:
 - Ensure that SQL Server is installed and running.
 - Create a new database named NotesTakingApp (or update the connection string in web.config or DBConnection class accordingly).
-5. Build and run the application:
+4. Build and run the application:
 - Press F5 in Visual Studio to build and run the application.
